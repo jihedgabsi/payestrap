@@ -34,4 +34,4 @@ app.post('/create-payment-intent', async (req, res) => {
   }
 });
 
-app.listen(4242, () => console.log('✅ Backend Stripe running on http://localhost:4242'));
+app.listen(3000, () => console.log('✅ Backend Stripe running on http://localhost:3000'));
